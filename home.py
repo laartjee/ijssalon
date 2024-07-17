@@ -1,3 +1,2 @@
 print("Hallo Wereld !")
-git add .
-git status
+print("Welkom in onze ijssalon")
